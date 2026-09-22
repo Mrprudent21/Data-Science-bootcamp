@@ -188,18 +188,3 @@ This project demonstrated ability to handle significantly more complexity while 
 - Random Forest handles non-linear relationships well
 - Domain knowledge drives valuable feature creation
 
-**Professional:**
-- Strategic decisions (what to drop, what to keep) matter more than perfect imputation
-- Understanding data distribution before modeling prevents issues
-- Simple engineered features can be more powerful than complex ones
-- Documentation during work (not after) saves time
-
-## Contact
-
-**GitHub:** [Your GitHub Profile]  
-**LinkedIn:** [Your LinkedIn]  
-**Email:** [Your Email]
-
----
-
-**Note:** This project demonstrates progression from classification (Titanic) to regression, handling increased complexity while maintaining professional standards and exceeding performance targets.
